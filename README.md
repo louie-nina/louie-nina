@@ -28,7 +28,9 @@
 A full-stack personal expense tracker — sign up, log spending, see a clean dashboard with a monthly breakdown chart.
 
 **Stack:** Next.js 16 · MongoDB Atlas · NextAuth · Tailwind · Recharts
-**Live demo:** [expense-tracker-xi-dun-64.vercel.app](https://expense-tracker-xi-dun-64.vercel.app)
+**Live demo:
+
+#### [Expense Tracker][expense-tracker-xi-dun-64.vercel.app](https://expense-tracker-xi-dun-64.vercel.app)
 
 #### [🏃 Strava Insights](https://github.com/louie-nina/strava-insights)
 
