@@ -21,7 +21,7 @@
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 
 #### [💰 Expense Tracker](https://github.com/louie-nina/expense-tracker)
 
@@ -29,6 +29,13 @@ A full-stack personal expense tracker — sign up, log spending, see a clean das
 
 **Stack:** Next.js 16 · MongoDB Atlas · NextAuth · Tailwind · Recharts
 **Live demo:** [expense-tracker-xi-dun-64.vercel.app](https://expense-tracker-xi-dun-64.vercel.app)
+
+#### [🏃 Strava Insights](https://github.com/louie-nina/strava-insights)
+
+Personal Strava analytics dashboard. One-click OAuth, incremental sync, weekly trends, pace and heart-rate charts, 16-week training heatmap.
+
+**Stack:** Next.js 16 · Strava OAuth · MongoDB · Recharts
+**Live demo:** [strava-insights-psi.vercel.app](https://strava-insights-psi.vercel.app)
 
 ---
 
