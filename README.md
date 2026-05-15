@@ -49,10 +49,10 @@ Reach out and I'll get back to you within a few hours.
 
 <p align="left">
   <a href="https://x.com/LouieNinaweb" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/@LouieNinaweb-000000?style=for-the-badge&logo=x&logoColor=white" alt="X profile" />
   </a>
   <a href="https://github.com/louie-nina" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/@louie--nina-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
 </p>
 
