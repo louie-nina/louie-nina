@@ -35,9 +35,16 @@ Personal Strava analytics dashboard. One-click OAuth, incremental sync, weekly t
 
 **Stack:** Next.js 16 · Strava OAuth · MongoDB · Recharts
 
+#### [✍️ AI Content Writer](https://github.com/louie-nina/ai-content-writer)
+
+Generate platform-tailored content with Claude — LinkedIn, Twitter, Blog, and Email drafts in 4 tones, streaming as Claude writes, with saved history.
+
+**Stack:** Next.js 16 · Claude API · MongoDB · NextAuth · Streaming
+
 **Live demo:**
 [💰 Expense Tracker](https://expense-tracker-xi-dun-64.vercel.app)  
-[🏃 Strava Insights](https://strava-insights-psi.vercel.app)
+[🏃 Strava Insights](https://strava-insights-psi.vercel.app)  
+[✍️ AI Content Writer](https://ai-content-writer-nu.vercel.app)
 
 ---
 
